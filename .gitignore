@@ -65,8 +65,7 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
-# mapping files
-*.js.map
+lib/
 
 # Yarn Integrity file
 .yarn-integrity
