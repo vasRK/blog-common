@@ -8,5 +8,5 @@ export class EventInfo {
 
 export enum EventType {
     PostCreated = 1,
-    CommentCreate = 2
+    CommentCreated = 2
 }
